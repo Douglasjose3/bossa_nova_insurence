@@ -17,7 +17,7 @@ function Contact() {
                         <h3 className='sub-title' data-aos="fade-right">Have a question? Shoot us a message...</h3>
                         <div className='row'>
                             <div className='col-sm-5'>
-                                <img className='responsive' src="/contact.png" alt="Ilustração" />
+                                <img className='responsive' src="./contact.png" alt="Ilustração" />
                             </div>
 
                             <div className='contact-box col-sm-7'>
