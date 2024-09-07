@@ -9,7 +9,11 @@ function MyNavbar() {
     return (
         <Navbar expand="lg" className='color-nav mt-2' sticky='top'>
             <Container>
-                <Navbar.Brand to="#home"><img className='img-brand' src="./src/assets/bossanova.png" alt="Logo da empresa" /></Navbar.Brand>
+                <Navbar.Brand>
+                    <Nav.Link href='#about'>
+                        <img className='img-brand' src="./src/assets/bossanova.png" alt="Logo da empresa" />
+                    </Nav.Link>
+                </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">

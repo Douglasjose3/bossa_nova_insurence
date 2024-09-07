@@ -69,11 +69,9 @@ function Contact() {
                                     <div>
                                         <MyMap className='myMaps'/>
                                     </div>
-                                    {/* <img className='responsive' src="https://via.placeholder.com/800x480" alt="" /> */}
                                 </div>
                             </div>
                         </div>
-                        {/* <hr className='mt-4'/> */}
                     </section>
                 </div>
             </div>
