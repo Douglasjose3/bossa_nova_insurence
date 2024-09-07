@@ -11,7 +11,7 @@ function MyNavbar() {
             <Container>
                 <Navbar.Brand>
                     <Nav.Link href='#about'>
-                        <img className='img-brand' src="./src/assets/bossanova.png" alt="Logo da empresa" />
+                        <img className='img-brand' src="../public/bossanova.png" alt="Logo da empresa" />
                     </Nav.Link>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

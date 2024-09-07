@@ -17,7 +17,7 @@ function About() {
                             <span></span>
                         </div>
                         <div className='col-lg-7 img-div'>
-                            <img className='img-about' src="./src/assets/wellness.jpg" alt="" />
+                            <img className='img-about' src="../public/wellness.jpg" alt="" />
                         </div>
                     </div>
                 </div>
