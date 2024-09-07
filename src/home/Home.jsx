@@ -2,7 +2,7 @@ import About from "../components/about/About";
 import Contact from "../components/contact/Contact";
 import MyNavbar from "../components/mynavbar/MyNavbar";
 import SocialMedia from "../components/socialMedia/SocialMedia";
-import Services from "../components/services/services";
+import Services from "../components/services/Services";
 import MyAccordion from "../components/myaccordion/MyAccordion";
 
 
