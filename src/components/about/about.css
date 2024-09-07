@@ -30,7 +30,7 @@
     color: rgb(120, 120, 120);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 844px) {
     .img-about {
         border-radius: 15px 80px 15px 80px;
     }
