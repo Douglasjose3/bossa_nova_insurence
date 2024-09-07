@@ -44,6 +44,11 @@
     .img-div {
         border-radius: 15px 80px 15px 80px;
     }
+
+    .big-title {
+        font-size: 60pt;
+        line-height: 65px;
+    }
 }
 
 
