@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 import './contact.css'
-import MyMap from '../MyMap/MyMap';
+import MyMap from '../myMap/MyMap';
 
 function Contact() {
         useEffect(() => {
