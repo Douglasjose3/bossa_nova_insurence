@@ -1,0 +1,13 @@
+.bg-socialMedias {
+    background-color: rgba(232, 232, 232, 0.325);
+}
+
+.icon-social {
+    font-size: 40px;
+}
+
+@media (320px <= width <= 1220px) {
+    .sub-title {
+        text-align: center;
+    }
+}

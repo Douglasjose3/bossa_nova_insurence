@@ -1,0 +1,35 @@
+
+/* 
+.services-content {
+    background-color: white;
+    padding: 20px 20px 0 20px;
+    border-radius: 16px;
+    box-shadow: 5px 5px 20px rgb(190, 190, 190);
+} */
+
+.main {
+    margin-top: 80px;
+    width: 100%;
+}
+
+.services {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px 30px 10px 30px;
+    background-color: rgb(244, 244, 244);
+    border-radius: 10px;
+}
+
+.services-icon {
+    margin: -95px auto 0;
+    width: 140px;
+}
+
+.services h4 {
+    margin: 15px 0 8px 0;
+    position: relative;
+}
+
+.services-title {
+    padding-top: 20px;
+}

@@ -1,0 +1,14 @@
+.img-brand {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.txt {
+    font-size: 20px;
+}
+
+.color-nav {
+    background-color: rgba(255, 255, 255, 0.627);
+    padding-top: 20px;
+}
