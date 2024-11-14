@@ -1,14 +1,24 @@
-.img-brand {
-    width: 300px;
-    height: auto;
-    margin-top: 20px;
+nav {
+  font-weight: bold !important;
 }
 
-.txt {
-    font-size: 20px;
+.navBrand {
+  color: var(--bg-verde-color);
+  font-weight: bold;
 }
 
-.color-nav {
-    background-color: rgba(255, 255, 255, 0.627);
-    padding-top: 20px;
+.navBrandScroll {
+  background-color: var(--bg-azul-color);
+}
+
+.colorNav {
+  font-weight: bold;
+}
+
+a.nav-link {
+  color: black !important;
+}
+
+#about {
+  padding: 30px;
 }

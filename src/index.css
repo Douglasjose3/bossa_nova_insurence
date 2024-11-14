@@ -4,15 +4,20 @@
   box-sizing: border-box;
 }
 
+:root {
+  --bg-verde-color: #16b83e;
+  --bg-azul-color: #1651b8;
+  --bg-amarelo-color: #ffe11f;
+}
+
 .sub-title {
   font-size: 30pt;
   line-height: 35px;
-  text-align: left;
+  text-align: center;
   font-family: "DM Serif Display", serif;
   font-weight: 700;
-  color: #1651B8;
-  padding-top: 80px;
-  padding-bottom: 30px;
+  color: #1651b8;
+  margin-top: 32px;
 }
 
 .p-bold {
@@ -34,15 +39,15 @@ img {
 }
 
 .bg-azul {
-  background-color: #1651B8;
+  background-color: #1651b8;
 }
 
 .bg-verde {
-  background-color: #16B83E;
+  background-color: #16b83e;
 }
 
 .bg-amarelo {
-  background-color: #FFE11F;
+  background-color: #ffe11f;
 }
 
 .dm-serif-display-regular {

@@ -1,23 +1,19 @@
-import About from "../components/about/About";
 import Contact from "../components/contact/Contact";
-import MyNavbar from "../components/mynavbar/MyNavbar";
-import SocialMedia from "../components/socialMedia/SocialMedia";
 import Services from "../components/services/Services";
-import MyAccordion from "../components/myaccordion/MyAccordion";
-
-
+import SocialMedia from "../components/socialMedia/SocialMedia";
+import Hero from "../components/hero/Hero";
+import Opportunities from "../components/opportunities/Opportunities";
 
 function Home() {
-    return (
-        <>
-            <MyNavbar />
-            <About />
-            <Services />
-            <MyAccordion />
-            <Contact />
-            <SocialMedia />
-        </>
-    )
+  return (
+    <>
+      <Hero />
+      <Services />
+      <Contact />
+      <Opportunities />
+      <SocialMedia />
+    </>
+  );
 }
 
 export default Home;

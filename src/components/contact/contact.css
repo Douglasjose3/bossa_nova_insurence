@@ -1,19 +1,18 @@
 .contactFirstPart {
-    padding-top: 15px;
-    padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 20px;
 }
 
 .contactSecondPart {
-    padding: 20px;
+  padding: 20px;
 }
 
 .icon-contact {
-    color: #16B83E;
+  color: var(--bg-verde-color);
 }
 
 @media screen and (max-width: 1024px) {
-    .responsive {
-        margin-bottom: 20px;
-    }
+  .responsive {
+    margin-bottom: 20px;
+  }
 }
-
